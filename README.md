@@ -324,9 +324,9 @@ A large number of CAN frames are continuously transmitted to flood the network.
 
 The following screenshot demonstrates secure CAN communication between the sender and receiver using the virtual CAN interface (`vcan0`).
 
-```markdown
+
 ![CAN Communication](screenshots/can_communication.png)
-```
+
 
 ---
 
@@ -334,9 +334,9 @@ The following screenshot demonstrates secure CAN communication between the sende
 
 This screenshot shows CAN bus flooding during the DoS attack simulation.
 
-```markdown
+
 ![DoS Attack](screenshots/DOS attack.png)
-```
+
 
 ---
 
@@ -344,9 +344,9 @@ This screenshot shows CAN bus flooding during the DoS attack simulation.
 
 The following screenshot demonstrates secure TLS handshake establishment between the EV client and charging server.
 
-```markdown
+
 ![TLS Handshake](screenshots/encryp_handshake.png)
-```
+
 
 ---
 
@@ -354,9 +354,9 @@ The following screenshot demonstrates secure TLS handshake establishment between
 
 This screenshot shows spoofed CAN frames being detected and rejected by the secure receiver.
 
-```markdown
+
 ![Spoofing Attack](screenshots/spoofing_attack.png)
-```
+
 
 ---
 
@@ -364,9 +364,9 @@ This screenshot shows spoofed CAN frames being detected and rejected by the secu
 
 The captured packets below demonstrate TLS handshake verification and encrypted application data analysis using Wireshark.
 
-```markdown
+
 ![Wireshark Verification](screenshots/wireshark_verification.png)
-```
+
 
 ---
 
